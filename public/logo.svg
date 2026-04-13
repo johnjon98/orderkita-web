@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="4 2 148 32" fill="none">
+  <!-- Fork -->
+  <!-- Tines -->
+  <line x1="6" y1="4" x2="6" y2="14" stroke="#a855f7" stroke-width="1.8" stroke-linecap="round"/>
+  <line x1="9" y1="4" x2="9" y2="14" stroke="#a855f7" stroke-width="1.8" stroke-linecap="round"/>
+  <line x1="12" y1="4" x2="12" y2="14" stroke="#a855f7" stroke-width="1.8" stroke-linecap="round"/>
+  <!-- Neck curve -->
+  <path d="M6 14 Q6 18 9 18 Q12 18 12 14" stroke="#a855f7" stroke-width="1.8" fill="none" stroke-linecap="round"/>
+  <!-- Handle -->
+  <line x1="9" y1="18" x2="9" y2="32" stroke="#a855f7" stroke-width="1.8" stroke-linecap="round"/>
+
+  <!-- Spoon -->
+  <!-- Bowl -->
+  <ellipse cx="22" cy="9" rx="4" ry="5.5" stroke="#a855f7" stroke-width="1.8" fill="none"/>
+  <!-- Handle -->
+  <line x1="22" y1="14.5" x2="22" y2="32" stroke="#a855f7" stroke-width="1.8" stroke-linecap="round"/>
+
+  <!-- OrderKita text -->
+  <text x="34" y="26" font-family="Inter, system-ui, sans-serif" font-size="20" font-weight="700" fill="#1e1b4b" letter-spacing="-0.5">Order<tspan fill="#a855f7">Kita</tspan></text>
+</svg>
